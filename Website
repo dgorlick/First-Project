@@ -1,0 +1,17 @@
+<!DOCTYPE html> 
+<html>
+<head>
+	<title>Diamond Discovery</title>
+</head>
+<body>
+	<iframe
+  width="600"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDCiCJ_dIQy5pwTqLkdoMey4ER333VNVgM
+    &q=New York+NY">
+</iframe>
+</body>
+</html>
